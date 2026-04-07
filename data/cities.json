@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "fooooood",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "6f9d",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2026-02-21T22:57:30.285Z",
+      "notes": "",
+      "position": {
+        "lat": "38.72191862537978",
+        "lng": "-9.140625000000002"
+      }
+    },
+    {
+      "id": "8137",
+      "cityName": "Los Navalucillos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-02-22T23:56:02.611Z",
+      "notes": "ddd",
+      "position": {
+        "lat": "39.605688178320804",
+        "lng": "-4.592285156250001"
+      }
+    },
+    {
+      "id": "7b0c",
+      "cityName": "Alcaracejos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-02-22T23:56:25.264Z",
+      "notes": "just now",
+      "position": {
+        "lat": "38.30718056188316",
+        "lng": "-4.921875000000001"
+      }
+    }
+  ]
+}
