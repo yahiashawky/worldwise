@@ -1,7 +1,8 @@
 import { createContext, useCallback, useContext, useEffect, useReducer } from "react";
 import PropTypes from 'prop-types';
 
-const basic_URL = 'http://localhost:8000';
+// const basic_URL = 'http://localhost:8000';
+const basic_URL = 'https://6a2e8bccc9776ca6c0c4b39b.mockapi.io/api';
 
 
 const CitiesContext = createContext()
